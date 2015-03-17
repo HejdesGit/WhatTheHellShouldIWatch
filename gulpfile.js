@@ -130,3 +130,13 @@ gulp.task('build', ['jshint', 'html', 'images', 'fonts', 'extras'], function () 
 gulp.task('default', ['clean'], function () {
   gulp.start('build');
 });
+
+gulp.task('webPack', function() {
+  return gulp.src('app/scripts/main.js')
+    .pipe($.webpack({
+      watch: true,
+      output: {
+        filename: 'main2.js'
+      }}))
+    .pipe(gulp.dest('app/scripts/'));
+});
