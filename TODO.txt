@@ -1,0 +1,5 @@
+https://github.com/yeoman/generator-gulp-webapp/blob/master/docs/recipes/handlebars.md
+https://github.com/yeoman/generator-gulp-webapp/blob/master/docs/recipes/jade.md
+https://github.com/yeoman/generator-gulp-webapp/blob/master/docs/recipes/gh-pages.md
+https://github.com/yeoman/generator-gulp-webapp/blob/master/docs/recipes/asset-revisioning.md
+Flexbox
