@@ -1,1 +1,1 @@
-console.log("'Allo 'Allo!");
+!function(o){function l(r){if(e[r])return e[r].exports;var n=e[r]={exports:{},id:r,loaded:!1};return o[r].call(n.exports,n,n.exports,l),n.loaded=!0,n.exports}var e={};return l.m=o,l.c=e,l.p="",l(0)}([function(){console.log("'Allo 'Allo!"),console.log("ahhaha")}]),console.log("'Allo 'Allo!");

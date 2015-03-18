@@ -1,2 +1,4 @@
 /* jshint devel:true */
-console.log('\'Allo \'Allo!');
+var mat = require('./mat');
+
+mat.Init();

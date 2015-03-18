@@ -136,7 +136,14 @@ gulp.task('webPack', function() {
     .pipe($.webpack({
       watch: true,
       output: {
-        filename: 'main2.js'
-      }}))
-    .pipe(gulp.dest('app/scripts/'));
+        filename: 'main.js'
+      },
+      externals: {
+        // require("jquery") is external and available
+        //  on the global var jQuery
+        "jquery": "jQuery"
+      }
+
+    }))
+    .pipe(gulp.dest('.tmp/scripts/'));
 });
