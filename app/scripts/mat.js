@@ -1,7 +1,7 @@
 //http://codepen.io/FelipeMartinin/pen/sAtvD
 
 'use strict';
-var $ = require('jquery');
+//var $ = require('jquery');
 
 module.exports = (function () {
   function Init() {
@@ -9,8 +9,7 @@ module.exports = (function () {
   }
 
   function bind() {
-    console.log($("title").text());
-    alert("666");
+    console.log($('title').text());
   }
 
   return {
