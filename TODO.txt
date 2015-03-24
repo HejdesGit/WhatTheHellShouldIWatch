@@ -2,4 +2,5 @@ https://github.com/yeoman/generator-gulp-webapp/blob/master/docs/recipes/handleb
 https://github.com/yeoman/generator-gulp-webapp/blob/master/docs/recipes/jade.md
 https://github.com/yeoman/generator-gulp-webapp/blob/master/docs/recipes/gh-pages.md
 https://github.com/yeoman/generator-gulp-webapp/blob/master/docs/recipes/asset-revisioning.md
+http://webpack.github.io/docs/webpack-dev-server.html
 Flexbox
