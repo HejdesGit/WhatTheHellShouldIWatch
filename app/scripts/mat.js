@@ -1,7 +1,7 @@
 //http://codepen.io/FelipeMartinin/pen/sAtvD
 
 'use strict';
-//var $ = require('jquery');
+var $ = require('jquery');
 
 module.exports = (function () {
   function Init() {

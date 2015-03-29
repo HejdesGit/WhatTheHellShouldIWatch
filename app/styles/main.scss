@@ -5,6 +5,7 @@ body {
   background: #fafafa;
   font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
   color: #333;
+  height: 500px;
 }
 
 .hero-unit {
@@ -29,3 +30,5 @@ body {
   color: #000;
   padding: 0.2em 0;
 }
+
+@import "_blockChooser";

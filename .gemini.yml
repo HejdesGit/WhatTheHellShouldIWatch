@@ -1,0 +1,11 @@
+rootUrl: http://yandex.com
+gridUrl: http://localhost:4444/wd/hub
+
+browsers:
+#  chrome:
+#    browserName: chrome
+#    version: "41.0"
+
+  firefox:
+    browserName: firefox
+    version: "36.0"

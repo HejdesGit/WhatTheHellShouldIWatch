@@ -1,0 +1,14 @@
+.flex-container {
+  list-style-type: none;
+  display: flex;
+  flex-flow: row wrap;
+  height: 100%;
+}
+
+.flex-item {
+  background: tomato;
+  height: 100%;
+  width: 50%;
+}
+
+

@@ -4,3 +4,5 @@ https://github.com/yeoman/generator-gulp-webapp/blob/master/docs/recipes/gh-page
 https://github.com/yeoman/generator-gulp-webapp/blob/master/docs/recipes/asset-revisioning.md
 http://webpack.github.io/docs/webpack-dev-server.html
 Flexbox
+https://unsplash.com/grid
+http://www.svt.se/play4api
